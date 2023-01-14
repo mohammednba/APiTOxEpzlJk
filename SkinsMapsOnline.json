@@ -22,7 +22,7 @@
       "title": "MineCarft Prisson",
       "mapLink": "https://zonekapp.com/MineCraft/EscapeBedrock.zip",
       "isLocked" : false ,
-      "coins" : 200,
+      "coins" : 0,
       "description": "A puzzle escape the prison map with a twist at the end! I'm sure there will be a part 2 of this map so be ready for it!",
       "preview": [
         "https://ia801900.us.archive.org/2/items/k_prev2/k_prev1.jpg",
@@ -32,10 +32,10 @@
     },
 
     {
-      "title": "Mob Survival: Legacy",
-      "mapLink": "https://www.mediafire.com/file/m7qq80gh4kyh4g0/Mob_Survival_LEGACY.mcworld.zip",
-      "isLocked" : true ,
-      "coins" : 200 ,
+      "title": "tt Mob Survival: Legacy",
+      "mapLink": "https://mohammednba.github.io/APiTOxEpzlJk/mob-survival.mcworld.zip",
+      "isLocked" : false ,
+      "coins" : 0 ,
       "description": "Mob Survival is an everlasting (not actually) onslaught of waves of mobs, with you and some friends, (or no friends) you may just be strong enough to take down all the enemies that lie within.",
       "preview": [
         "https://i.postimg.cc/g2WWRgfM/1.png",
@@ -48,8 +48,8 @@
     {
       "title": "Skyfactory",
       "mapLink": "https://www.mediafire.com/file/kazcdm7mpscd5ub/SkyFactory.mcworld.zip",
-      "isLocked" : true ,
-      "coins" : 200,
+      "isLocked" : false ,
+      "coins" : 0,
       "description": "This modpack replicates skyfactory similarly to java edition sky factory but for bedrock. It has the addons advanced machinery, baubles, and loot bags. You start off on a floating island with nothing but a tree, and you end up making a factory and beating the ender dragon.",
       "preview": [
         "https://i.postimg.cc/MH6K8qSj/1.webp",
@@ -61,8 +61,8 @@
     {
       "title": "Technical Survival MCPE! - El Pana Tecnico",
       "mapLink": "https://www.mediafire.com/file/0bg1ayji19jnrig/EL_PANA_T__CNICO_-_JEIKYMC.mcworld.zip",
-      "isLocked" : true ,
-      "coins" : 200,
+      "isLocked" : false ,
+      "coins" : 0,
       "description": "This world of technical survival Minecraft Pocket Edition is a true paradise for fans of technology and redstone mechanisms. It is full of awesome technical farms that will help you collect resources and stay alive in this hostile world. Don't miss your chance to download this unique world and start playing today! With its unique blend of survival and technology, it's a gaming experience you won't want to miss.",
       "preview": [
         "https://api.mcpedl.com/storage/submissions/170853/images/technical-survival-mcpe--el-pana-tecnico-v1_2.jpeg",
@@ -76,8 +76,8 @@
     {
       "title": "Diamond Hunt - Minigame",
       "mapLink": "https://www.mediafire.com/file/1bz7ijwfwd4dwiu/§bDiamond+§4Hunt.mcworld.zip",
-      "isLocked" : true ,
-      "coins" : 200,
+      "isLocked" : false ,
+      "coins" : 0,
       "description": "Introducing Diamond Hunt, a brand new multiplayer Minecraft minigame map made by ExamineCat! Split up into two teams of 1-4 players per team. Use given supplies to set up protection for your team's diamond block during the give time in order to prevent the other team from reaching and breaking it after time is up. For once time is up, the teams will switch sides and hunt for each other's diamond block! Whichever team breaks the opposing team's diamond block first wins the game!",
       "preview": [
         "https://cdn.discordapp.com/attachments/810609352695087176/1061869134792634438/Screenshot_2983.png",
@@ -92,8 +92,8 @@
     {
       "title": "Lusail Stadium (Qatar World Cup)",
       "mapLink": "https://www.mediafire.com/file/qvuems53bi5ekvu/Lusail+Stadium.mcworld.zip",
-      "isLocked" : true ,
-      "coins" : 200,
+      "isLocked" : false ,
+      "coins" : 0,
       "description": "Would you like to take a closer look at the stadium where the world final was played? I present to you the Lusail Stadium in Qatar. The stadium is quite large, detailed and has a realistic look. Let's take a closer look!",
       "preview": [
         "https://api.mcpedl.com/storage/submissions/170799/images/lusail-stadium-qatar-world-cup--119_2.jpeg",
@@ -109,8 +109,8 @@
     {
       "title": "test The Abandoned (Horror!)(Adventure)",
       "mapLink": "https://mohammednba.github.io/APiTOxEpzlJk/%C2%A7bDiamond%20%C2%A74Hunt.mcworld.zip",
-      "isLocked" : true ,
-      "coins" : 200,
+      "isLocked" : false ,
+      "coins" : 0,
       "description": "You (The Detective James Albert from Municipal Military Secretariat ) are investigating the Sarah Dyello missing case. All Studies indicate that she was taken to the old and abandoned ProyeLife hospital. Now it's up to you to find out what happened!",
       "preview": [
         "https://api.mcpedl.com/storage/submissions/168231/images/the-abandoned-horroradventure11940_2.jpeg",
