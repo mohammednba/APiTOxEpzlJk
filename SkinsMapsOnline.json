@@ -1,7 +1,7 @@
 {
   "AdsController": {
       
-    "AdNetwork"            : "admoc",
+    "AdNetwork"            : "admob",
     
     "AdMob_ID"             : "pub-3940256099942544",
     "AdMob_Banner"         : "ca-app-pub-3940256099942544/6300978111",
