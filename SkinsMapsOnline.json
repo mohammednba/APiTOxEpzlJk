@@ -20,7 +20,7 @@
 
     {
       "title": "MineCarft Prisson",
-      "mapLink": "https://zonekapp.com/MineCraft/EscapeBedrock.zip",
+      "mapLink": "https://mohammednba.github.io/APiTOxEpzlJk/EscapeBedro.zip",
       "isLocked" : false ,
       "coins" : 0,
       "description": "A puzzle escape the prison map with a twist at the end! I'm sure there will be a part 2 of this map so be ready for it!",
@@ -92,28 +92,28 @@
       "mapLink": "https://mohammednba.github.io/APiTOxEpzlJk/LuckyBlocksRace.zip",
       "isLocked" : false ,
       "coins" : 0,
-      "description": "Would you like to take a closer look at the stadium where the world final was played? I present to you the Lusail Stadium in Qatar. The stadium is quite large, detailed and has a realistic look. Let's take a closer look!",
+      "description": "Lucky Block Race is a classic mini racing game with lucky blocks. The game consists of each player having to advance on their respective track, while destroying the lucky blocks that will be on the way. Remember that destroying a lucky block will give you random things that can be good or bad. Also at the end you will be able to fight with your friends, since this map includes a small pvp arena.",
       "preview": [
-        "https://api.mcpedl.com/storage/submissions/170799/images/lusail-stadium-qatar-world-cup--119_2.jpeg",
-        "https://api.mcpedl.com/storage/submissions/170799/images/lusail-stadium-qatar-world-cup--119_3.jpeg",
-        "https://api.mcpedl.com/storage/submissions/170799/images/lusail-stadium-qatar-world-cup--119_4.jpeg",
-        "https://api.mcpedl.com/storage/submissions/170799/images/lusail-stadium-qatar-world-cup--119_5.jpeg",
-        "https://api.mcpedl.com/storage/submissions/170799/images/lusail-stadium-qatar-world-cup--119_6.jpeg",
-        "https://api.mcpedl.com/storage/submissions/170799/images/lusail-stadium-qatar-world-cup--119_7.jpeg",
-        "https://api.mcpedl.com/storage/submissions/170799/images/lusail-stadium-qatar-world-cup--119_8.jpeg"
+        "https://i.postimg.cc/Y9nNwfYg/1.png",
+        "https://i.postimg.cc/9FTxyKyn/2.png",
+        "https://i.postimg.cc/zG8kKBzy/3.png",
+        "https://i.postimg.cc/Fsgyr4yN/4.png",
+        "https://i.postimg.cc/nrKDh4Q0/5.png"
       ]
     },
 
     {
-      "title": "test The Abandoned (Horror!)(Adventure)",
-      "mapLink": "https://mohammednba.github.io/APiTOxEpzlJk/%C2%A7bDiamond%20%C2%A74Hunt.mcworld.zip",
+      "title": "TNT RUN (MAP MINECRAFT BEDROCK)",
+      "mapLink": "https://mohammednba.github.io/APiTOxEpzlJk/TNTRUN.zip",
       "isLocked" : false ,
       "coins" : 0,
-      "description": "You (The Detective James Albert from Municipal Military Secretariat ) are investigating the Sarah Dyello missing case. All Studies indicate that she was taken to the old and abandoned ProyeLife hospital. Now it's up to you to find out what happened!",
+      "description": "This is a fun and popular minigame, in which the players will be on a platform that will disappear as they step on it. Walk, run or jump without stopping to be the last player standing and win the game.",
       "preview": [
-        "https://api.mcpedl.com/storage/submissions/168231/images/the-abandoned-horroradventure11940_2.jpeg",
-        "https://api.mcpedl.com/storage/submissions/168231/images/the-abandoned-horroradventure11940_3.jpeg",
-        "https://api.mcpedl.com/storage/submissions/168231/images/the-abandoned-horroradventure11940_4.jpeg"
+        "https://i.postimg.cc/Prt48JrP/1.png",
+        "https://i.postimg.cc/jS1Q9h67/2.png",
+        "https://i.postimg.cc/Rhvcfpmj/3.png",
+        "https://i.postimg.cc/Wp7mjV6j/4.png",
+        "https://i.postimg.cc/prdmRwRX/5.png"
       ]
     }
   ],
