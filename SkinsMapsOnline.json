@@ -64,19 +64,17 @@
       "mapLink": "https://mohammednba.github.io/APiTOxEpzlJk/genesis-pvp-e3030.zip",
       "isLocked" : false ,
       "coins" : 0,
-      "description": "This world of technical survival Minecraft Pocket Edition is a true paradise for fans of technology and redstone mechanisms. It is full of awesome technical farms that will help you collect resources and stay alive in this hostile world. Don't miss your chance to download this unique world and start playing today! With its unique blend of survival and technology, it's a gaming experience you won't want to miss.",
+      "description": "PVP World to play with your friends. (Bedrock and Edu edition only McWorld ) PVP Stands for player vs player so battle it out on this map to see who is better and who can kill more efficiently.",
       "preview": [
-        "https://api.mcpedl.com/storage/submissions/170853/images/technical-survival-mcpe--el-pana-tecnico-v1_2.jpeg",
-        "https://api.mcpedl.com/storage/submissions/170853/images/technical-survival-mcpe--el-pana-tecnico-v1_3.jpeg",
-        "https://api.mcpedl.com/storage/submissions/170853/images/technical-survival-mcpe--el-pana-tecnico-v1_4.jpeg",
-        "https://api.mcpedl.com/storage/submissions/170853/images/technical-survival-mcpe--el-pana-tecnico-v1_5.jpeg"
+        "https://i.postimg.cc/65qVd6hb/1.webp",
+        "https://i.postimg.cc/zDtKXZ1C/2.webp"
       ]
     },
 
 
     {
-      "title": "Diamond Hunt - Minigame",
-      "mapLink": "https://www.mediafire.com/file/1bz7ijwfwd4dwiu/§bDiamond+§4Hunt.mcworld.zip",
+      "title": "Stranger Things",
+      "mapLink": "https://mohammednba.github.io/APiTOxEpzlJk/StrangerThings.zip",
       "isLocked" : false ,
       "coins" : 0,
       "description": "Introducing Diamond Hunt, a brand new multiplayer Minecraft minigame map made by ExamineCat! Split up into two teams of 1-4 players per team. Use given supplies to set up protection for your team's diamond block during the give time in order to prevent the other team from reaching and breaking it after time is up. For once time is up, the teams will switch sides and hunt for each other's diamond block! Whichever team breaks the opposing team's diamond block first wins the game!",
