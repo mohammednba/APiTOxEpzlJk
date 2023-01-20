@@ -3,10 +3,10 @@
       
     "AdNetwork"            : "admob",
     
-    "AdMob_ID"             : "pub-3940256099942544",
-    "AdMob_Banner"         : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd" : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_RewardAd"       : "ca-app-pub-3940256099942544/5224354917",
+    "AdMob_ID"             : "pub-5022338571615300",
+    "AdMob_Banner"         : "ca-app-pub-5022338571615300/6740505885",
+    "AdMob_InterstitialAd" : "ca-app-pub-5022338571615300/1488179206",
+    "AdMob_RewardAd"       : "ca-app-pub-5022338571615300/8955605681",
     
     "Unity_GameID"         : "4076527",
     "Unity_Banner"         : "BannerAd",
