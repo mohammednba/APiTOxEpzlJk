@@ -68,13 +68,28 @@
       "mapLink": "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/modernhouse.zip",
       "isLocked" : false ,
       "coins" : 0,
-      "description": "You are welcomed to the school and you need to find all 7 notebooks to escape. I really made this map similar than the original game and I worked very hard on this.",
+      "description": "This is a modern 3 story estate tucked away from any city. With a living room completed with a tv it’s made for people that like to relax.",
       "preview": [
-        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/11.png",
-        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/12.png",
-        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/13.png",
-        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/14.png",
-        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/15.png"
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/16.png",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/17.png",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/18.png",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/19.png",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/20.png"
+      ]
+    },
+
+    {
+      "title": "Western Cowboy Map",
+      "mapLink": "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/WesternCowboyMap.zip",
+      "isLocked" : false ,
+      "coins" : 0,
+      "description": "Western Cowboy Map features 3 custom cowboy mobs, including a boss mob. It also features a custom weapon, the six shooter. There is an old western town to explore with over 50 custom buildings.",
+      "preview": [
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/16.png",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/17.png",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/18.png",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/19.png",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/20.png"
       ]
     }
   ],
