@@ -19,24 +19,27 @@
   "Maps": [
 
     {
-      "title": "Dungeon Escape test",
+      "title": "Dungeon Escape",
       "mapLink": "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/DungeonEscape.zip",
       "isLocked" : false ,
       "coins" : 0 ,
-      "description": "your description her about forest pack",
+      "description": "Solve the puzzles, collect the crystals and escape the dungeon! Do you think you are able to escape? This map contains 5 stages, each one will give you a crystal that must be placed in the tower, by collecting all 5 you will escape.",
       "preview": [
-        "https://ia801900.us.archive.org/2/items/k_prev2/k.jpg",
-        "https://ia801900.us.archive.org/2/items/k_prev2/k.jpg",
-        "https://ia801900.us.archive.org/2/items/k_prev2/k.jpg"
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/1.webp",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/2.webp",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/3.webp",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/4.webp",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/5.webp",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/6.webp"
       ]
     },
 
     {
-      "title": "MineCarft Prisson",
-      "mapLink": "https://zonekapp.com/MineCraft/EscapeBedrock.zip",
-      "isLocked" : true ,
-      "coins" : 200,
-      "description": "your description her about Prisson pack",
+      "title": "Ant Farm",
+      "mapLink": "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/antfarm.zip",
+      "isLocked" : false ,
+      "coins" : 0,
+      "description": "1x51 ant farm in minecraft bedrock edition",
       "preview": [
         "https://ia801900.us.archive.org/2/items/k_prev2/k_prev1.jpg",
         "https://ia801900.us.archive.org/2/items/k_prev2/k.jpg",
