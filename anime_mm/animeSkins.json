@@ -85,11 +85,26 @@
       "coins" : 0,
       "description": "Western Cowboy Map features 3 custom cowboy mobs, including a boss mob. It also features a custom weapon, the six shooter. There is an old western town to explore with over 50 custom buildings.",
       "preview": [
-        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/16.png",
-        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/17.png",
-        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/18.png",
-        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/19.png",
-        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/20.png"
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/25.jpeg",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/24.jpeg",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/23.jpeg",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/22.jpeg",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/21.jpeg"
+      ]
+    },
+
+    {
+      "title": "The White House (Minecraft PE)",
+      "mapLink": "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/TheWhiteHouse.zip",
+      "isLocked" : false ,
+      "coins" : 0,
+      "description": "Western Cowboy Map features 3 custom cowboy mobs, including a boss mob. It also features a custom weapon, the six shooter. There is an old western town to explore with over 50 custom buildings.",
+      "preview": [
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/25.jpeg",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/24.jpeg",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/23.jpeg",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/22.jpeg",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/21.jpeg"
       ]
     }
   ],
