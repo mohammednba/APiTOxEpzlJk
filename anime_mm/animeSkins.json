@@ -53,12 +53,28 @@
       "mapLink": "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/Baldis.zip",
       "isLocked" : false ,
       "coins" : 0,
-      "description": "Welcome to Freddy Fazbears Pizza! A magical place for kids and grownups alike, where fantasy and fun come to life! Come be apart of the Fazbear Family and work the Night shift from 12 to 6 AM.",
+      "description": "You are welcomed to the school and you need to find all 7 notebooks to escape. I really made this map similar than the original game and I worked very hard on this.",
       "preview": [
-        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/7.webp",
-        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/8.webp",
-        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/9.jpeg",
-        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/10.webp"
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/11.png",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/12.png",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/13.png",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/14.png",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/15.png"
+      ]
+    },
+
+    {
+      "title": "Modern House #1",
+      "mapLink": "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/modernhouse.zip",
+      "isLocked" : false ,
+      "coins" : 0,
+      "description": "You are welcomed to the school and you need to find all 7 notebooks to escape. I really made this map similar than the original game and I worked very hard on this.",
+      "preview": [
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/11.png",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/12.png",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/13.png",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/14.png",
+        "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/15.png"
       ]
     }
   ],
