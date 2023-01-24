@@ -3,10 +3,10 @@
       
     "AdNetwork"            : "admob",
     
-    "AdMob_ID"             : "pub-3940256099942544",
-    "AdMob_Banner"         : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd" : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_RewardAd"       : "ca-app-pub-3940256099942544/5224354917",
+    "AdMob_ID"             : "pub-5022338571615300",
+    "AdMob_Banner"         : "ca-app-pub-5022338571615300/7362282402",
+    "AdMob_InterstitialAd" : "ca-app-pub-5022338571615300/7426981144",
+    "AdMob_RewardAd"       : "ca-app-pub-5022338571615300/7458770736",
     
     "Unity_GameID"         : "4076527",
     "Unity_Banner"         : "BannerAd",
@@ -37,8 +37,8 @@
     {
       "title": "Ant Farm",
       "mapLink": "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/antfarm.zip",
-      "isLocked" : false ,
-      "coins" : 0,
+      "isLocked" : true ,
+      "coins" : 500,
       "description": "1x51 ant farm in minecraft bedrock edition",
       "preview": [
         "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/7.webp",
@@ -51,8 +51,8 @@
     {
       "title": "Baldi's Basics Bedrock Edition",
       "mapLink": "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/Baldis.zip",
-      "isLocked" : false ,
-      "coins" : 0,
+      "isLocked" : true ,
+      "coins" : 500,
       "description": "You are welcomed to the school and you need to find all 7 notebooks to escape. I really made this map similar than the original game and I worked very hard on this.",
       "preview": [
         "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/11.png",
@@ -66,8 +66,8 @@
     {
       "title": "Modern House #1",
       "mapLink": "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/modernhouse.zip",
-      "isLocked" : false ,
-      "coins" : 0,
+      "isLocked" : true ,
+      "coins" : 500,
       "description": "This is a modern 3 story estate tucked away from any city. With a living room completed with a tv it’s made for people that like to relax.",
       "preview": [
         "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/16.png",
@@ -81,8 +81,8 @@
     {
       "title": "Western Cowboy Map",
       "mapLink": "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/WesternCowboyMap.zip",
-      "isLocked" : false ,
-      "coins" : 0,
+      "isLocked" : true ,
+      "coins" : 500,
       "description": "Western Cowboy Map features 3 custom cowboy mobs, including a boss mob. It also features a custom weapon, the six shooter. There is an old western town to explore with over 50 custom buildings.",
       "preview": [
         "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/25.jpeg",
@@ -96,8 +96,8 @@
     {
       "title": "The White House (Minecraft PE)",
       "mapLink": "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/TheWhiteHouse.zip",
-      "isLocked" : false ,
-      "coins" : 0,
+      "isLocked" : true ,
+      "coins" : 500,
       "description": "Have you wanted to ever pretend that you live in the White House? That you are the most powerful person in the world? Well, in role-play that is possible at White House in Minecraft PE. Explore the meticulously recreated West Wing, the Residence, etc.",
       "preview": [
         "https://mohammednba.github.io/APiTOxEpzlJk/anime_mm/images/30.webp",
